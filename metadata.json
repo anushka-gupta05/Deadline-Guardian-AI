@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Deadline Guardian AI",
+  "description": "An AI-powered productivity coach and deadline tracker that breaks down tasks, estimates deadline missing risk, creates day-wise action plans, and provides actionable suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
