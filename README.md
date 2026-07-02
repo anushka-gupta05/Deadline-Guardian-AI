@@ -59,11 +59,25 @@ npm run dev
 
 ## 🌐 Live Demo
 
-🔗 [application link ](https://deadline-guardian-ai-final-448582127955.asia-southeast1.run.app)
+🔗 (https://deadline-guardian-ai-final-448582127955.asia-southeast1.run.app)
 
 ## 📸 Screenshots
 
-Add screenshots of your application here.
+### ☀️ Light Mode
+
+![Light Home](./light-home.jpeg)
+
+![Light Planning](./light-planning.jpeg)
+
+![Light Progress](./light-progress.jpeg)
+
+### 🌙 Dark Mode
+
+![Dark Home](./dark-home.jpeg)
+
+![Dark Planning](./dark-planning.jpeg)
+
+![Dark Progress](./dark-progress.jpeg)
 
 ## 👩‍💻 Author
 
