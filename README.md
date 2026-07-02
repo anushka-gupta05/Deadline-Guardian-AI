@@ -2,19 +2,73 @@
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# Deadline Guardian AI
 
-This contains everything you need to run your app locally.
+An AI-powered productivity application that helps users plan, prioritize, and complete their tasks before deadlines are missed.
 
-View your app in AI Studio: https://ai.studio/apps/e421023e-7815-446c-939e-b38859396a6f
+## Overview
 
-## Run Locally
+The idea behind **Deadline Guardian AI** is simple: reminders alone aren't enough. Instead of just notifying users about upcoming deadlines, the application provides intelligent planning, prioritization, and personalized guidance to help users stay productive and complete their work on time.
 
-**Prerequisites:**  Node.js
+## Features
 
+- 🤖 AI-powered task prioritization
+- 🗺️ Personalized coaching and execution roadmap
+- 📊 Smart progress tracking and task management
+- 🌙 Dark & Light mode support
+- 📱 Mobile-friendly responsive design
+- ⚡ Fast and intuitive user experience
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠️ Tech Stack
+
+- React 19
+- TypeScript
+- Vite
+- Tailwind CSS
+- Google Gemini AI
+- Express.js
+- Motion
+- Lucide React
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js
+- npm
+
+### Installation
+
+```bash
+git clone <your-repository-url>
+cd <repository-name>
+npm install
+```
+
+Create a `.env.local` file and add your Gemini API key:
+
+```env
+GEMINI_API_KEY=your_api_key
+```
+
+Run the application:
+
+```bash
+npm run dev
+```
+
+## 🌐 Live Demo
+
+🔗 [application link ](https://deadline-guardian-ai-final-448582127955.asia-southeast1.run.app)
+
+## 📸 Screenshots
+
+Add screenshots of your application here.
+
+## 👩‍💻 Author
+
+**Anushka Kumari Gupta**
+
+---
+
+Built with ❤️ using React and Google Gemini AI.
