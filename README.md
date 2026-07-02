@@ -65,19 +65,19 @@ npm run dev
 
 ### ☀️ Light Mode
 
-![Light Home](./light-home.jpeg)
+![Light Home](./images/light-home.jpeg)
 
-![Light Planning](./light-planning.jpeg)
+![Light Planning](./images/light-planning.jpeg)
 
-![Light Progress](./light-progress.jpeg)
+![Light Progress](./images/light-progress.jpeg)
 
 ### 🌙 Dark Mode
 
-![Dark Home](./dark-home.jpeg)
+![Dark Home](./images/dark-home.jpeg)
 
-![Dark Planning](./dark-planning.jpeg)
+![Dark Planning](./images/images/dark-planning.jpeg)
 
-![Dark Progress](./dark-progress.jpeg)
+![Dark Progress](./images/dark-progress.jpeg)
 
 ## 👩‍💻 Author
 
